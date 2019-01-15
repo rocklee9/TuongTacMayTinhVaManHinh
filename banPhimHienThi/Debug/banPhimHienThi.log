@@ -1,0 +1,7 @@
+﻿  WinMain.cpp
+c:\users\minhh\source\repos\banphimhienthi\banphimhienthi\winmain.cpp(5): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+c:\users\minhh\source\repos\banphimhienthi\banphimhienthi\winmain.cpp(5): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+c:\users\minhh\source\repos\banphimhienthi\banphimhienthi\winmain.cpp(5): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+c:\users\minhh\source\repos\banphimhienthi\banphimhienthi\winmain.cpp(5): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+c:\users\minhh\source\repos\banphimhienthi\banphimhienthi\winmain.cpp(5): warning C4566: character represented by universal-character-name '\u1EEB' cannot be represented in the current code page (1252)
+  banPhimHienThi.vcxproj -> C:\Users\minhh\source\repos\banPhimHienThi\Debug\banPhimHienThi.exe
